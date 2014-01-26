@@ -28,6 +28,8 @@ public class TestGitJava {
         System.out.println("Tulisan ku yang kedua >> tambahan edit raw dari web");
 
         System.out.println("tambahan Ketiga");
+        
+        String nilai="ABCDD";
     }
     
 }
