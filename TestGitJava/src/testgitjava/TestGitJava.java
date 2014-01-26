@@ -21,6 +21,9 @@ public class TestGitJava {
         System.out.println("tambahan Ketiga");
         System.out.println("tambahan Ketiga");
         
+        System.out.println("tambahan Ketiga");
+        
+        
         System.out.println("Tulisann Yang pertama");
         System.out.println("Tulisan ku yang kedua >> tambahan edit raw dari web");
 
