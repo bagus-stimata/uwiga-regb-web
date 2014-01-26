@@ -18,6 +18,7 @@ public class TestGitJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Tulisann Yang pertama");
+        System.out.println("Tulisan ku yang kedua >> tambahan edit raw dari web");
     }
     
 }
